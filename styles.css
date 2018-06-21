@@ -1,7 +1,11 @@
- h1 {
-     color: cornflowerblue;
- }
+body {
+    background-color: #e0c3a6
+}
 
- p {
-     color: darkslategray
- }
+h1 {
+    color: cornflowerblue;
+}
+
+p {
+    color: darkslategray
+}
