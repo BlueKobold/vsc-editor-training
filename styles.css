@@ -12,8 +12,15 @@ h1 {
     border: 5px solid black;
     padding: 10px;
     margin: 50px;
+    float: left;
+}
+#titel3{
+     color: darkcyan;
 }
 p {
     color: darkslategray;
     line-height: 140%;
+}
+.absatz {
+    color: #167950;
 }
