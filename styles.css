@@ -8,9 +8,6 @@ h1 {
 	margin: 0px;
 }
 
-.navigation {
-    float: right;
-}
 .container {
     width: 600px;
     margin-top: 30px;
@@ -20,6 +17,19 @@ h1 {
     padding: 15px;
     border: 2px solid rgb(150, 150, 150);
     background-color: rgb(255, 255, 255);
+}
+
+.sidebar {
+	width: 200px;
+	float: left;
+}
+
+.content {
+	width: 400px;
+	float: right;
+
+.navigation {
+    float: right;
 }
 
 p {
